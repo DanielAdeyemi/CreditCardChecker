@@ -1,0 +1,15 @@
+/Users/daniel/credit.solution/obj/Debug/net5.0/credit.solution.csprojAssemblyReference.cache
+/Users/daniel/credit.solution/obj/Debug/net5.0/credit.solution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/credit.solution/obj/Debug/net5.0/credit.solution.AssemblyInfoInputs.cache
+/Users/daniel/credit.solution/obj/Debug/net5.0/credit.solution.AssemblyInfo.cs
+/Users/daniel/credit.solution/obj/Debug/net5.0/credit.solution.csproj.CoreCompileInputs.cache
+/Users/daniel/credit.solution/bin/Debug/net5.0/credit.solution.deps.json
+/Users/daniel/credit.solution/bin/Debug/net5.0/credit.solution.runtimeconfig.json
+/Users/daniel/credit.solution/bin/Debug/net5.0/credit.solution.runtimeconfig.dev.json
+/Users/daniel/credit.solution/bin/Debug/net5.0/credit.solution.dll
+/Users/daniel/credit.solution/bin/Debug/net5.0/ref/credit.solution.dll
+/Users/daniel/credit.solution/bin/Debug/net5.0/credit.solution.pdb
+/Users/daniel/credit.solution/obj/Debug/net5.0/credit.solution.dll
+/Users/daniel/credit.solution/obj/Debug/net5.0/ref/credit.solution.dll
+/Users/daniel/credit.solution/obj/Debug/net5.0/credit.solution.pdb
+/Users/daniel/credit.solution/obj/Debug/net5.0/credit.solution.genruntimeconfig.cache
